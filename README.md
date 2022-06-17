@@ -4,3 +4,12 @@ Analyze your Site for Blind-Sql Injection Vulnerability.
 ## About
 If you are a web security expert or have a personal website, you should make sure that there are no security vulnerabilities on the website.
 One of these vulnerabilities is the `Blind-Sql Injection` vulnerability that is seen in many sites and can be used to obtain sensitive information from the target system.
+`pyBlind` helps you to go through this process very easily and quickly and reach vulnerability.
+
+## Requirements
+You need Python 3.0 to run This Tool.
+
+## Quick Run
+```
+$ Python pyblind.py -u <URL>
+```
