@@ -9,7 +9,18 @@ One of these vulnerabilities is the `Blind-Sql Injection` vulnerability that is 
 ## Requirements
 You need Python 3.0 to run This Tool.
 
-## Quick Run
+## Usage
 ```
 $ Python pyblind.py -u <URL>
+```
+
+## Options
+Usage : pyblind [options]
+```
+-h          show help Menu
+-u          set a <URL> for analyze
+-V          Get database Version
+-T          Get db Tables
+-C          Get db Columns
+--dbs       Database Methode
 ```
