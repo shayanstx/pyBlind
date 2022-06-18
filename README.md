@@ -33,6 +33,13 @@ $ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
 ```
 
 ## Developer
-* shayanstx
-+ instagram.com/shayanstx
-- shayanstx@gmail.com
+  * SHAYAN STX  
+  https://instagram.com/shayanstx  
+  https://twitter.com/shayanstx  
+  shayanstx@gmail.com
+
+  * STX Github 
+  https://github.com/shayanstx/  
+
+  * Youtube
+  https://b2n.ir/stx-channel
