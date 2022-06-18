@@ -38,6 +38,6 @@ $ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
   https://twitter.com/shayanstx  
   shayanstx@gmail.com
 
-  * Hacking training 
+  * Hacking training  
   https://instagram.com/shaayaan.io 
   https://b2n.ir/stx-channel
