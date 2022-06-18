@@ -11,7 +11,7 @@ You need Python 3.0 to run This Tool.
 
 ## Usage
 ```
-$ Python pyblind.py -u <URL>
+$ Python3 pyblind.py -u <URL>
 ```
 
 ## Options
@@ -23,4 +23,12 @@ Usage : pyblind [options]
 -T          Get db Tables
 -C          Get db Columns
 --dbs       Database Methode
+--like      Like Methode
+--list      List Methode
+```
+
+## Example
+site ► https://target.com/index.php?id=1
+```
+$ python3 pyblind.py -u https://target.com/index.php?id=1 -T --dbs
 ```
