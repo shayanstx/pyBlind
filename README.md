@@ -28,7 +28,11 @@ Usage : pyblind [options]
 ```
 
 ## Example
-site ► https://target.com/index.php?id=1
 ```
-$ python3 pyblind.py -u https://target.com/index.php?id=1 -T --dbs
+$ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
 ```
+
+## Developer
+    * shayanstx
+    instagram.com/shayanstx
+    shayanstx@gmail.com
