@@ -33,6 +33,6 @@ $ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
 ```
 
 ## Developer
-shayanstx
+* shayanstx
 instagram.com/shayanstx
 shayanstx@gmail.com
