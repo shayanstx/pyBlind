@@ -39,5 +39,5 @@ $ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
   shayanstx@gmail.com
 
   * Hacking training  
-  https://instagram.com/shaayaan.io 
+  https://instagram.com/shaayaan.io  
   https://b2n.ir/stx-channel
