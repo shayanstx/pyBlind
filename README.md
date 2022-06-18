@@ -39,7 +39,7 @@ $ python3 pyblind.py -u https://example.com/index.php?id=1 -T --dbs
   shayanstx@gmail.com
 
   * STX Github 
-  https://github.com/shayanstx/  
+    https://github.com/shayanstx/  
 
   * Youtube
-  https://b2n.ir/stx-channel
+    https://b2n.ir/stx-channel
